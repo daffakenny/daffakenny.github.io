@@ -11,23 +11,21 @@ redirect_from:
 
 Education
 ======
-* Computer Science, Bachelor in Universitas Airlangga, 2019 - 2024
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012 -->
+* 🎓 Computer Science, Bachelor in Universitas Airlangga, 2019 - 2024
+
 
 Work experience
 ======
-* Data Entry Intern | Oct 2022 - Dec 2022
+* Data Entry Intern — Oct 2022 through Dec 2022
   * LPPM Universitas Airlangga
-  ** Responsible for entering various types of data across 15 faculties and 1 post-graduate school into desired formats.
+    * Responsible for entering various types of data across 15 faculties and 1 post-graduate school into desired formats.
 
-* UI/UX Intern | Feb 2022 - Mar 2022
+* 🎨 UI/UX Intern — Feb 2022 through Mar 2022
   * PT POS Indonesia (Persero) 6000
-  ** Interviewed 3 on-site customer service agents' experience in dealing and handling complaints coming in at Pos Indonesia Surabaya 6000.
-  ** Co-designed a design system for the internal Customer Service Application.
-  ** Co-designed the user experience of the internal Customer Service Application.
-  ** Co-designed the user interface of the internal Customer Service Application.
+    * Interviewed 3 on-site customer service agents' experience in dealing and handling complaints coming in at Pos Indonesia Surabaya 6000.
+    * Co-designed a design system for the internal Customer Service Application.
+    * Co-designed the user experience of the internal Customer Service Application.
+    * Co-designed the user interface of the internal Customer Service Application.
   
 Skills
 ======
@@ -36,6 +34,7 @@ Skills
 * EDA - Exploratory Data Analysis
 * Data Analysis
 * Machine Learning
+  * Cross Validation
 * UI/UX Design
   * User Interface Design
   * Atomic Design System
