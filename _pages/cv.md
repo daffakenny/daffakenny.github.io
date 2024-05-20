@@ -11,37 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Computer Science, Bachelor in Universitas Airlangga, 2019 - 2024
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2012 -->
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Data Entry Intern | Oct 2022 - Dec 2022
+  * LPPM Universitas Airlangga
+  ** Responsible for entering various types of data across 15 faculties and 1 post-graduate school into desired formats.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* UI/UX Intern | Feb 2022 - Mar 2022
+  * PT POS Indonesia (Persero) 6000
+  ** Interviewed 3 on-site customer service agents' experience in dealing and handling complaints coming in at Pos Indonesia Surabaya 6000.
+  ** Co-designed a design system for the internal Customer Service Application.
+  ** Co-designed the user experience of the internal Customer Service Application.
+  ** Co-designed the user interface of the internal Customer Service Application.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Jupyter Notebook
+* EDA - Exploratory Data Analysis
+* Data Analysis
+* Machine Learning
+* UI/UX Design
+  * User Interface Design
+  * Atomic Design System
+  * Design System
+  * User Interview
+  * User Experience Design
+  * Wireframe
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

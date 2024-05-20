@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Classification of Patient Survival in Heart Failure using Machine Learning for Imbalanced Datasets."
+excerpt: "Thesis project for classification of patient survival; achieved 91.11% accuracy, 87.50% recal, and 93.99% AUC. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
