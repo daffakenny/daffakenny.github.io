@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daffa Kenny's Portfolio"
+title                    : "Daffa Kenny"
 title_separator          : "-"
 name                     : &name "Daffa Kenny"
 description              : &description "Data Analyst, Data Science, Machine Learning, and UI/UX enthusiast"
