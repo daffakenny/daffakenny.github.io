@@ -1,6 +1,6 @@
 ---
 title: "Exploratory Data Analysis on NBA: Stats That (Might) Matter."
-excerpt: "Project exploring API Requests, .JSON to .CSV.files conversion, and EDA <br/><img src='/images/porfolio2.png'/>"
+excerpt: "Project exploring API Requests, .JSON to .CSV.files conversion, and EDA<br/><img src='/images/porfolio2.png'/>"
 collection: portfolio
 ---
 
