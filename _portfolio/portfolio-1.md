@@ -1,6 +1,6 @@
 ---
 title: "HF Patient Survival Classification."
-excerpt: "Final Project/Thesis Project for classification of patient survival; achieved 91.11% accuracy, 87.50% recall, and 93.99% AUC. <br/><img src='/images/portfolio1.png' width="500">"
+excerpt: "Final Project/Thesis Project for classification of patient survival; achieved 91.11% accuracy, 87.50% recall, and 93.99% AUC. <br/><img src='/images/portfolio1.png' width="500"/>"
 collection: portfolio
 ---
 
