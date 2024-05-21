@@ -1,6 +1,6 @@
 ---
-title: "Classification of Patient Survival in Heart Failure using Machine Learning for Imbalanced Datasets."
-excerpt: "Thesis project for classification of patient survival; achieved 91.11% accuracy, 87.50% recall, and 93.99% AUC. <br/><img src='/images/porto1_thesisFlow.png'>"
+title: "HF Patient Survival Classification."
+excerpt: "Final Project/Thesis Project for classification of patient survival; achieved 91.11% accuracy, 87.50% recall, and 93.99% AUC. <br/><img src='/images/portfolio1.png' width="500">"
 collection: portfolio
 ---
 
