@@ -20,4 +20,4 @@ collection: portfolio
     * Team Comparisons: The Miami Heat and the Phoenix Suns, top of their conferences, show different playstyle. The Suns excel in scoring, while the Heat’s ball movement and capitalization on turnovers stand out.
     * This summary encapsulates the multifaceted aspects of basketball performance, highlighting the importance of both offensive efficiency and defensive plays in securing wins.
 
-Read more on my [Medium article](https://medium.com/@daffakenny/exploratory-data-analysis-on-nba-stats-that-might-matter-3a937c3a99f9)!
+Read more on my [Medium article](https://medium.com/@daffakenny/exploratory-data-analysis-on-nba-stats-that-might-matter-3a937c3a99f9) or view the [repository](https://github.com/daffakenny/apireq) instead!
