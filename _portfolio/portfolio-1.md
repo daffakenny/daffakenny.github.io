@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 ![](/images/portfolio1.png)
+
 Inspired by [Davide Chicco & Giuseppe Jurman's research](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5), my thesis project focused on improving the performance of ML models in predicting patient survival. For this project, I used two datasets. The first one is Chicco & Jurman’s original dataset found on [Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data). This dataset is called **SOLE DATASET**.
 
 The second dataset was retrieved from Zhang et al. on [PhysioNet](https://physionet.org/content/heart-failure-zigong/1.3/). The second dataset was then combined with Chicco & Jurman's dataset, producing a second dataset called **COMBINED DATASET**.
