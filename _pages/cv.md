@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 🎓 Computer Science, Bachelor in Universitas Airlangga, 2019 - 2024
+🎓 Computer Science, Bachelor in Universitas Airlangga, 2019 - 2024
 
 
 Work experience
@@ -34,14 +34,9 @@ Skills
 * EDA - Exploratory Data Analysis
 * Data Analysis
 * Machine Learning
-  * Cross Validation
 * UI/UX Design
-  * User Interface Design
-  * Atomic Design System
-  * Design System
-  * User Interview
-  * User Experience Design
-  * Wireframe
+  * Wireframe, Atomic Design System, Design System
+  * User Interview, User Experience Design
 
 <!-- Publications
 ======
