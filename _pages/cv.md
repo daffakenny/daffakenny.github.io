@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-🎓 Computer Science, Bachelor in Universitas Airlangga, 2019 - 2024
+🎓 Bachelor of Computer Science - Universitas Airlangga, 2019 - 2024
 
 
 Work experience
