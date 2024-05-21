@@ -4,7 +4,8 @@ excerpt: "Bachelor thesis; achieved 91.11% accuracy, 87.50% recall, and 93.99% A
 collection: portfolio
 ---
 
-![](/images/portfolio1.png)
+![](/images/portfolio1_big.png)
+
 
 Inspired by [Davide Chicco & Giuseppe Jurman's research](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5), my thesis project focused on improving the performance of ML models in predicting patient survival. For this project, I used two datasets. The first one is Chicco & Jurman’s original dataset found on [Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data). This dataset is called **SOLE DATASET**.
 
