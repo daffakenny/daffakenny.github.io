@@ -1,6 +1,6 @@
 ---
 title: "ML Model Publishing with Pickle & Streamlit."
-excerpt: "Personal project on publishing & hosting ML Model<br/><img src='/images/portfolio1.png'>"
+excerpt: "Personal project on publishing & hosting ML Model<br/><img src='/images/porto3_home.png'>"
 collection: portfolio
 ---
 
@@ -13,6 +13,7 @@ Inspired by [Patrik Loeber's video](https://youtu.be/xl0N7tHiwlw?si=ztHOC9WYnfWw
     * Publishing Data-Viz to Streamlit.
 
 ![](/images/porto3_home.png)
+
 Salary prediction page, where users can predict salaries by inputting their Country, Education Level, and Years of Professional Coding Experience.
 
 
